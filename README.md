@@ -35,6 +35,17 @@ Me enfoco en:
 
 ---
 
+# 🔒 Nota sobre repositorios
+
+La mayoría de mis proyectos se mantienen privados por razones comerciales y de confidencialidad.  
+
+Este perfil muestra una representación de:
+- Mi stack tecnológico  
+- Mi enfoque de arquitectura  
+- Los productos que estoy desarrollando  
+
+---
+
 # 🚀 Productos SaaS
 
 ## 🛠️ TechServicePro
